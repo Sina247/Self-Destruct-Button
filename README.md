@@ -13,3 +13,8 @@ An interactive and fun web app simulating a self destruct sequence. Users can cl
 - 🛠️ **Easy integration**: Can be easily added to any web project.  
 - 🎨 **Customizable effects**: Adjust colors, timing and explosion animations.  
 - 💡 **Engaging UI**: Adds playful and interactive fun to your website.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="934" alt="Screenshot 2026-05-30 082430" src="https://github.com/user-attachments/assets/247b4d2e-76e7-4f5d-907d-d74460743aac" />
